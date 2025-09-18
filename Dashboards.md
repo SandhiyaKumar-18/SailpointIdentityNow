@@ -1,3 +1,5 @@
+```pgsql
+
 📌 SailPoint IdentityNow Dashboard
 │
 ├── 🔑 Identity
@@ -60,7 +62,7 @@
     ├── Separation of Duties (SoD)
     ├── Risk Scores
     └── Access Reviews
-
+```
 
 
 
