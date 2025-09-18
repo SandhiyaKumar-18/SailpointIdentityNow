@@ -1,3 +1,69 @@
+📌 SailPoint IdentityNow Dashboard
+│
+├── 🔑 Identity
+│   ├── 👤 Identity List
+│   └── 🧩 Identity Cube
+│       ├── Overview
+│       ├── Accounts
+│       ├── Entitlements
+│       ├── Roles
+│       ├── Access Requests
+│       ├── Certifications
+│       ├── Policy Violations
+│       └── Activity / Audit Logs
+│
+├── 📚 Access
+│   ├── Access Profiles
+│   ├── Roles
+│   ├── Entitlements
+│   ├── Access Requests
+│   └── Certifications
+│
+├── ⚙️ Admin
+│   ├── Sources (Connectors)
+│   ├── Identity Profiles
+│   ├── Transforms
+│   ├── Rules
+│   ├── Policies
+│   ├── Correlation
+│   └── Password Policies
+│
+├── 🔄 Lifecycle
+│   ├── Joiner / Mover / Leaver Configurations
+│   ├── Provisioning Policies
+│   ├── Lifecycle States
+│   └── Event Triggers
+│
+├── 📝 Certifications
+│   ├── Active Campaigns
+│   ├── Completed Campaigns
+│   ├── Policy Violations Review
+│   └── Manager / Role / Application Certifications
+│
+├── 📊 Reports
+│   ├── Standard Reports
+│   ├── Custom Reports
+│   └── Audit Logs
+│
+├── 📡 Workflows
+│   ├── IdentityNow Workflows
+│   ├── Event Triggers
+│   └── Approvals
+│
+├── 🔍 Search
+│   ├── Identity Search
+│   ├── Account Search
+│   └── Entitlement Search
+│
+└── 🛡️ Governance
+    ├── Policy Management
+    ├── Separation of Duties (SoD)
+    ├── Risk Scores
+    └── Access Reviews
+
+
+
+
 # SailPoint IdentityNow — Admin Console Tabs
 
 ## 1. Dashboard
